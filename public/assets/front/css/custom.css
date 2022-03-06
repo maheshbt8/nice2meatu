@@ -1,0 +1,146 @@
+body{
+	background-color: #cccccc6b;
+}
+.header-one .header-navbar{
+	padding-bottom: 0px !important;
+}
+.header-one .bg-top-bar{
+	background-color: #901f3e;
+}
+
+.header-one .bg-header-bar, .bg-sticky-bar{
+    background-color: #329198 !important
+}
+.header-one .bg-menu-bar{
+	background-color: #329198 !important
+}
+.header-one .bg-nav-bar{
+	background-color: #329198 !important
+}
+/*
+.header-one .bg-header-bar, .header-one .bg-menu-bar, .header-one .bg-nav-bar {
+    background-color: #047b83cc !important;
+}*/
+.header-maxi i{
+	color: #fff;
+}
+.meat_top_bar ul li {
+    float: left;
+    list-style: none;
+    line-height: 2.8;
+    color: #fff;
+    padding-right: 35px;
+}
+.meat_top_bar ul li a{
+	color: #fff;
+    padding-left: 5px;
+    display: inline-block;
+}
+.sticky-header .header-sticky-inner nav .navbar-collapse ul .nav-item .nav-link{
+	color: #fff;
+}
+.product11.product article .content .pro-counter .icon{
+	background-color: #d41f52;
+}
+.badge-secondary{
+	background-color: #d41f52;
+}
+.btn-secondary{
+	border-color:#d41f52;
+}
+#back-to-top{
+	background-color: #d41f52;
+}
+.info-boxes-content .info-box .panel .fas{
+	color: #000;	
+}
+.info-boxes-content{
+	background-color: #fff;
+}
+.pro-content .tabs-main a.nav-link.active{
+	background-color: #000 !important;
+}
+.tabs-content{
+	/*display: none !important;*/
+}
+.pro-content .tabs-main a.nav-link.active::before{
+	border-top: 10px solid #000;
+}
+.info-boxes-content {
+    border: 1px solid #dee2e6;
+    padding: 30px 15px;
+    background-color: #fff;
+}
+.product article .badges{
+	position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+      /*vamshi*/
+.pro-content .product {
+    padding-top: 30px;
+    background-color: white;
+}
+.pro-content .product {
+    padding-top: 0px;
+}
+.col-lg-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+    /*margin-top: 25px;*/
+}
+.img-fluid {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.header-one .header-maxi {
+    padding: 0px 0;
+}
+.div-class{
+	margin-top: 25px; 
+}
+/*.content{
+	margin-bottom: 20px;
+}*/
+.product11.product article .content {
+    margin-bottom: 20px;
+}
+.pl-2, .px-2 {
+     padding-left: 0rem !important; 
+}
+.item-quantity {
+    width: 75px;
+    height: 40px;
+}
+.main_home_all_products{
+	padding-right: 20px;
+    padding-left: 20px;
+}
+.product article .thumb {
+    /* height: 210px; */
+}
+.product article .content .price {
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: black;
+}
+.pro-content {
+    overflow: hidden;
+    padding-top: 50px;
+}
